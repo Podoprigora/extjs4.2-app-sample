@@ -1,0 +1,10 @@
+.settings/
+.sass-cache/
+build/
+ext/
+excel_import/
+upload_files/
+*.project
+*.buildpath
+application.ini
+application.log
